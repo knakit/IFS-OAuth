@@ -13,7 +13,7 @@ More details on this can be found in the blog [IFS Authentication flow with OAut
 ## How to use
 `>IfsOauthTest.exe https://<SERVER>:<PORT>/ <RESOURCE_PATH>`
 
-Eg: `>IfsOauthTest.exe https://ifsapp10:48080/ PartHandling.svc/PartCatalogSet(PartNo='TEST1')`
+Eg: `...\IFS-OAuth\IfsOauthTest\bin\Release>IfsOauthTest.exe https://ifsapp10:48080/ PartHandling.svc/PartCatalogSet(PartNo='TEST1')`
 ## TODO
 A Lot to make it usable. Modify as you wish and contribute to the library!
 
