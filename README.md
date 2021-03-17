@@ -1,6 +1,6 @@
 # Sample cmdline app to demo OAuth2 flow with PKCE with IFS 10
 
-This Application will process the PKCE flow and get results from Aurena main projection
+This Application process the PKCE flow and get results from Aurena main projection
 
 ## OAuth and IFS
 With the release of IFS Aurena, client applications wishes to conenct to IFS needs to authenticate with OAuth2 and OpenID Connect.
