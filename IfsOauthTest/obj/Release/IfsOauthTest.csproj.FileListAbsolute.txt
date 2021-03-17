@@ -1,0 +1,9 @@
+D:\github\IFS-OAuth\IfsOauthTest\bin\Release\IfsOauthTest.exe.config
+D:\github\IFS-OAuth\IfsOauthTest\bin\Release\IfsOauthTest.exe
+D:\github\IFS-OAuth\IfsOauthTest\bin\Release\IfsOauthTest.pdb
+D:\github\IFS-OAuth\IfsOauthTest\bin\Release\Knakit.Ifs.Auth.Openid.dll
+D:\github\IFS-OAuth\IfsOauthTest\bin\Release\Knakit.Ifs.Auth.Openid.pdb
+D:\github\IFS-OAuth\IfsOauthTest\obj\Release\IfsOauthTest.csprojAssemblyReference.cache
+D:\github\IFS-OAuth\IfsOauthTest\obj\Release\IfsOauthTest.csproj.CopyComplete
+D:\github\IFS-OAuth\IfsOauthTest\obj\Release\IfsOauthTest.exe
+D:\github\IFS-OAuth\IfsOauthTest\obj\Release\IfsOauthTest.pdb

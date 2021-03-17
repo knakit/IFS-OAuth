@@ -1,0 +1,5 @@
+D:\github\IFS-OAuth\Knakit.Ifs.Auth.Openid\bin\Release\Knakit.Ifs.Auth.Openid.dll
+D:\github\IFS-OAuth\Knakit.Ifs.Auth.Openid\bin\Release\Knakit.Ifs.Auth.Openid.pdb
+D:\github\IFS-OAuth\Knakit.Ifs.Auth.Openid\obj\Release\Knakit.Ifs.Auth.Openid.csprojAssemblyReference.cache
+D:\github\IFS-OAuth\Knakit.Ifs.Auth.Openid\obj\Release\Knakit.Ifs.Auth.Openid.dll
+D:\github\IFS-OAuth\Knakit.Ifs.Auth.Openid\obj\Release\Knakit.Ifs.Auth.Openid.pdb
