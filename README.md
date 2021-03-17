@@ -1,4 +1,4 @@
-# Sample cmdline app for demo OAuth2 flow with PKCE with IFS 10
+# Sample cmdline app to demo OAuth2 flow with PKCE with IFS 10
 
 This Application will process the PKCE flow and get results from Aurena main projection
 
