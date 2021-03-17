@@ -1,0 +1,4 @@
+D:\work\IFS_dotNet\Oauth2New\Knakit.Ifs.Auth.Openid\bin\Debug\Knakit.Ifs.Auth.Openid.dll
+D:\work\IFS_dotNet\Oauth2New\Knakit.Ifs.Auth.Openid\bin\Debug\Knakit.Ifs.Auth.Openid.pdb
+D:\work\IFS_dotNet\Oauth2New\Knakit.Ifs.Auth.Openid\obj\Debug\Knakit.Ifs.Auth.Openid.dll
+D:\work\IFS_dotNet\Oauth2New\Knakit.Ifs.Auth.Openid\obj\Debug\Knakit.Ifs.Auth.Openid.pdb
